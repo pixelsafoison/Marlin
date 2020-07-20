@@ -490,9 +490,9 @@
   // If you are using a pre-configured hotend then you can use one of the value sets by uncommenting it
 
   // Stock CR-10 Hotend fan 100%
-  #define DEFAULT_Kp 20.19
-  #define DEFAULT_Ki 1.52
-  #define DEFAULT_Kd 67.09
+  #define DEFAULT_Kp 29.34
+  #define DEFAULT_Ki 2.53
+  #define DEFAULT_Kd 85.08
 
 
   // Ultimaker
