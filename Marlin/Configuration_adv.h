@@ -1257,7 +1257,7 @@
       #define BOOT_MARLIN_LOGO_SMALL     // Show a smaller Marlin logo on the Boot Screen (saving lots of flash)
     #endif
   #endif
-
+#endif
   // Scroll a longer status message into view
   //#define STATUS_MESSAGE_SCROLLING
 
